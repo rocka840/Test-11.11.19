@@ -1,0 +1,7 @@
+var
+prompt
+Number
+for
+if // else
+alert
+console log
